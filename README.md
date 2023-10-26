@@ -1,4 +1,4 @@
-NETLIFY LINK--adminportaldashboard.netlify.app
+NETLIFY LINK-- adminportaldashboard.netlify.app
 
 ADDING SNAPSHOTS OF USERS AND PRODUCT PAGE 
 
